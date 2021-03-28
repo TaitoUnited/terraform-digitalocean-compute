@@ -31,6 +31,7 @@ virtualMachines:
 YAML attributes:
 
 - See variables.tf for all the supported YAML attributes.
+- See [droplet](https://registry.terraform.io/providers/digitalocean/digitalocean/latest/docs/resources/droplet) for attribute descriptions.
 
 Combine with the following modules to get a complete infrastructure defined by YAML:
 
